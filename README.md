@@ -1,8 +1,9 @@
 # Reinforcement_Machine_Learning
 
 Here you find a sample of my PhD coding with MATLAB and mathematica in Reinforcement Machine Learning:
+
 1)	Between two player ( simple online simulation )  
-2)	 2 ) During network formation ( bifurcation coding)
+2)	During network formation ( bifurcation coding)
 
  ----------------------------------------------------------      
 
